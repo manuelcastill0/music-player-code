@@ -1,0 +1,1 @@
+The zip folder contains a code and 5 different songs, so as soon as you run the code you would have the option to select the differente songs, you can also have the option to stop the music by writting "exit".
